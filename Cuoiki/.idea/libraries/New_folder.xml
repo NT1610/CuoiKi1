@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="New folder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/New folder/countrylistmanager.zip!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/sortstrategy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/countryarraymanager.zip!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/trapezoidalrule.zip!/" />
+      <root url="jar://$PROJECT_DIR$/New folder/data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
